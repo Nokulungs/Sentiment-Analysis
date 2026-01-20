@@ -1,0 +1,5 @@
+{
+  "name": "Sentilux - AI Sentiment Dashboard",
+  "description": "A world-class sentiment analysis dashboard powered by Gemini AI, featuring batch processing, visual analytics, and detailed keyword explanation.",
+  "requestFramePermissions": []
+}
